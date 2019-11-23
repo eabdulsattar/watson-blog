@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+venv
+*.sqlite3
+/static
+local_settings.py
+.DS_Store
