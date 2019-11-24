@@ -8,3 +8,4 @@ ibm-watson>=4.0.2
 watson-developer-cloud
 django-cors-middleware
 django-storages
+django-taggit==0.22.2
